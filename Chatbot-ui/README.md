@@ -18,6 +18,8 @@ all the dependencies
 
 npm install
 
+npm install convex react convex/react
+
 First, run the development server:
 
 ```bash
@@ -25,7 +27,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+npm dev
 # or
 bun dev
 # for convex
