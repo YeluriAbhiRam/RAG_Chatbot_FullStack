@@ -1,0 +1,114 @@
+[
+    {
+        "question": "What is a visa?",
+        "answer": "A visa is an official document that allows a foreign national to enter, stay, or leave a country for a specific period under certain conditions."
+    },
+    {
+        "question": "What are the different types of visas?",
+        "answer": "Common types of visas include tourist visas, work visas, student visas, business visas, and transit visas."
+    },
+    {
+        "question": "How can I apply for a visa?",
+        "answer": "You can apply for a visa online through the respective country’s embassy website or visit a consulate to submit a physical application."
+    },
+    {
+        "question": "What documents are required for a visa application?",
+        "answer": "Requirements vary, but commonly required documents include a passport, visa application form, passport-sized photographs, proof of financial means, and an invitation letter if applicable."
+    },
+    {
+        "question": "How long does it take to process a visa?",
+        "answer": "Visa processing times depend on the country and type of visa but typically range from a few days to several months."
+    },
+    {
+        "question": "What is a visa interview?",
+        "answer": "A visa interview is a face-to-face meeting with a consular officer who assesses your eligibility for the requested visa."
+    },
+    {
+        "question": "Can my visa application be denied?",
+        "answer": "Yes, visa applications can be denied for reasons such as insufficient documentation, security concerns, or failure to meet eligibility criteria."
+    },
+    {
+        "question": "What should I do if my visa application is denied?",
+        "answer": "You can appeal the decision, reapply with improved documentation, or seek legal assistance if necessary."
+    },
+    {
+        "question": "How long is a visa valid for?",
+        "answer": "Visa validity varies by country and type, ranging from a few weeks to several years."
+    },
+    {
+        "question": "Can I extend my visa?",
+        "answer": "Some countries allow visa extensions under specific conditions, usually requiring an application before the current visa expires."
+    },
+    {
+        "question": "What happens if I overstay my visa?",
+        "answer": "Overstaying a visa can lead to fines, deportation, or future visa application rejections."
+    },
+    {
+        "question": "Do I need a visa for a layover in another country?",
+        "answer": "Some countries require a transit visa if you have a layover, while others allow short-term stays without one."
+    },
+    {
+        "question": "Can I work on a tourist visa?",
+        "answer": "No, working on a tourist visa is illegal. You must apply for a work visa to engage in employment."
+    },
+    {
+        "question": "What is a golden visa?",
+        "answer": "A golden visa is a residency-by-investment program that grants residency or citizenship in exchange for a significant investment in a country."
+    },
+    {
+        "question": "What is a startup visa?",
+        "answer": "A startup visa is designed for entrepreneurs who want to establish a business in a foreign country, often with requirements for funding and business plans."
+    },
+    {
+        "question": "What is a cultural exchange visa?",
+        "answer": "A cultural exchange visa allows individuals to participate in cultural programs, typically involving work, study, or training."
+    },
+    {
+        "question": "Can I apply for multiple visas at once?",
+        "answer": "Yes, you can apply for multiple visas, but you must meet the eligibility requirements for each and manage travel restrictions accordingly."
+    },
+    {
+        "question": "What is an investor visa?",
+        "answer": "An investor visa allows individuals to gain residency or citizenship by making a substantial financial investment in the country."
+    },
+    {
+        "question": "How does a humanitarian visa work?",
+        "answer": "A humanitarian visa is granted to individuals facing emergencies, such as conflicts or natural disasters, allowing temporary refuge."
+    },
+    {
+        "question": "Can I travel with an expired visa?",
+        "answer": "No, traveling with an expired visa is illegal and may lead to fines, deportation, or restrictions on future travel."
+    },
+    {
+        "question": "What is a work-holiday visa?",
+        "answer": "A work-holiday visa allows young individuals to travel and work in a foreign country for a limited period."
+    },
+    {
+        "question": "What is a student-dependent visa?",
+        "answer": "A student-dependent visa allows family members of a student visa holder to live with them while they study abroad."
+    },
+    {
+        "question": "What is an asylum visa?",
+        "answer": "An asylum visa is granted to individuals who seek protection due to persecution, violence, or life-threatening situations in their home country."
+    },
+    {
+        "question": "Can I apply for a visa on arrival?",
+        "answer": "Some countries allow visa-on-arrival, meaning you can obtain a visa upon reaching the destination instead of applying beforehand."
+    },
+    {
+        "question": "What is a digital nomad visa?",
+        "answer": "A digital nomad visa allows remote workers to live in a country while working online for a foreign employer."
+    },
+    {
+        "question": "Can I apply for a visa if I have a criminal record?",
+        "answer": "Having a criminal record may affect visa eligibility, but it depends on the country and the severity of the offense."
+    },
+    {
+        "question": "What is a religious worker visa?",
+        "answer": "A religious worker visa allows clergy and religious workers to enter a country for religious activities and services."
+    },
+    {
+        "question": "Can I transfer my visa to another passport?",
+        "answer": "Some countries allow visa transfers to a new passport, while others require a new visa application."
+    }
+]
